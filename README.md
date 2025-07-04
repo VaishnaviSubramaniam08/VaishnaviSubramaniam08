@@ -1,10 +1,13 @@
- Hello World, I’m Vaishnavi!
-  
+👋 Hello, I'm Vaishnavi Subramaniam!
+
 🌟 From "Hello World" to Real World
 
 🎯 Who Am I?
+
 🎓 Computer Science Engineer in the Making
+
 💡 Full-Stack Developer | Python Enthusiast | Problem Solver
+
 🚀 Building Tomorrow's Tech Today
 
 🎯 Current Tech Stack
