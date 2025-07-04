@@ -74,3 +74,4 @@ def my_approach():
 
 
  
+[![trophy](https://github-profile-trophy.vercel.app/?username=VaishnaviSubramaniam08&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
