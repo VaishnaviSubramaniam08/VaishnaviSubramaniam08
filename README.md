@@ -5,7 +5,9 @@
 🎯 Who Am I?
 
 🎓 Computer Science Engineer in the Making
+
 💡 Full-Stack Developer | Python Enthusiast | Problem Solver
+
 🚀 Building Tomorrow's Tech Today
 
 🎯 Current Tech Stack
@@ -18,7 +20,9 @@ Databases: MySQL • MongoDB • PostgreSQL
 Tools: Git • GitHub • VS Code
 
 🔥 My Code Philosophy
+
 python
+
 def my_approach():
     while problem_exists:
         analyze_deeply()
@@ -29,12 +33,19 @@ def my_approach():
 
 
 🎪 The Creative Stats Dashboard
+
 📊 Vaishnavi.exe - System Status
+
 ⚡ Energy Level: ████████░░ 80% (Powered by Code & Coffee)
+
 🧠 Learning Mode: ██████████ 100% (Always ON)
+
 🔧 Problem Solving: ████████░░ 85% (Debugging Champion)
+
 🎨 Creativity: ███████░░░ 75% (Code Artist)
+
 🤝 Collaboration: ████████░░ 85% (Team Player Ready)
+
 
 📧 Ready to collaborate? vaishnavisubramaniam247@gmail.com
 📍 Based in: Tiruppur, Tamil Nadu
