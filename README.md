@@ -24,11 +24,17 @@ Tools: Git • GitHub • VS Code
 python
 
 def my_approach():
+
     while problem_exists:
+    
         analyze_deeply()
+        
         code_with_passion()
+        
         test_rigorously()
+        
         iterate_until_perfect()
+        
     return "impactful_solution"
 
 
@@ -47,11 +53,12 @@ def my_approach():
 🤝 Collaboration: ████████░░ 85% (Team Player Ready)
 
 
-📧 Ready to collaborate? vaishnavisubramaniam247@gmail.com
 
-📍 Based in: Tiruppur, Tamil Nadu
+📧 Contact: vaishnavisubramaniam247@gmail.com
 
-🎓 Engineering at: Kongu Engineering College, Perundurai
+📍 Location: Tiruppur, Tamil Nadu
+
+🎓 College: Kongu Engineering College, Perundurai
 
 
  
