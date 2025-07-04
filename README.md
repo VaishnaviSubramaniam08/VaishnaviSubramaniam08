@@ -48,7 +48,9 @@ def my_approach():
 
 
 📧 Ready to collaborate? vaishnavisubramaniam247@gmail.com
+
 📍 Based in: Tiruppur, Tamil Nadu
+
 🎓 Engineering at: Kongu Engineering College, Perundurai
 
 
