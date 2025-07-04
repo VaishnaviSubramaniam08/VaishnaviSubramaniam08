@@ -2,6 +2,9 @@
 
 🌟 From "Hello World" to Real World
 
+
+
+
 🎯 Who Am I?
 
 🎓 Computer Science Engineer in the Making
@@ -9,6 +12,8 @@
 💡 Full-Stack Developer | Python Enthusiast | Problem Solver
 
 🚀 Building Tomorrow's Tech Today
+
+
 
 🎯 Current Tech Stack
 Languages: Python • Java • C++ • JavaScript • SQL
@@ -18,6 +23,8 @@ Web: React • Node.js • Express.js • HTML/CSS
 Databases: MySQL • MongoDB • PostgreSQL
 
 Tools: Git • GitHub • VS Code
+
+
 
 🔥 My Code Philosophy
 
@@ -38,7 +45,9 @@ def my_approach():
     return "impactful_solution"
 
 
-🎪 The Creative Stats Dashboard
+
+
+🎪 The Creative Status Dashboard
 
 📊 Vaishnavi.exe - System Status
 
@@ -51,6 +60,7 @@ def my_approach():
 🎨 Creativity: ███████░░░ 75% (Code Artist)
 
 🤝 Collaboration: ████████░░ 85% (Team Player Ready)
+
 
 
 
