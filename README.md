@@ -52,6 +52,8 @@ return "impactful_solution"
 
 🤝 Collaboration: ████████░░ 85% (Team Player Ready)
 
+https://leetcode.com/u/vaishnavisubramaniam/
+
 📧 Contact: vaishnavisubramaniam247@gmail.com
 
 📍 Location: Tiruppur, Tamil Nadu
