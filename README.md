@@ -52,7 +52,11 @@ return "impactful_solution"
 
 🤝 Collaboration: ████████░░ 85% (Team Player Ready)
 
-https://leetcode.com/u/vaishnavisubramaniam/
+
+I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramaniam/).  
+
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode&logoColor=yellow)](https://leetcode.com/vaishnavisubramaniam/)
 
 📧 Contact: vaishnavisubramaniam247@gmail.com
 
