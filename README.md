@@ -77,11 +77,27 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 </p>
 
 ## 📗 Connect with Me on GeeksforGeeks
+
+## 📗 GeeksforGeeks Stats Card
+
 <p align="center">
   <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
-    <img src="assets/gfg_stats.png" alt="GeeksforGeeks Stats" width="600" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1f8f1f?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-380+-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coding%20Score-620-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Articles-3-important?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rank-Top%2010%25-yellow?style=flat-square" />
+</p>
+
+<p align="center">
+  🧠 Data Structures & Algorithms | 💻 Competitive Programming | 🏆 Interview Prep
+</p>
+
+
 
 📧 Contact: vaishnavisubramaniam247@gmail.com
 
