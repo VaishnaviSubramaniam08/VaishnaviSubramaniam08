@@ -77,15 +77,9 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 </p>
 
 ## 📗 Connect with Me on GeeksforGeeks
-<p >
+<p align="center">
   <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" alt="GeeksforGeeks Logo"/>
-  </a>
-</p>
-
-<p >
-  <a href="https://auth.geeksforgeeks.org/user/vaishnaviis08/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Profile-1f8f1f?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+    <img src="assets/gfg_stats.png" alt="GeeksforGeeks Stats" width="600" style="border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
