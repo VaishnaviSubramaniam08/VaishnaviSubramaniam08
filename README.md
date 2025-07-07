@@ -77,14 +77,11 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 </p>
 
 ## 📗 Connect with Me on GeeksforGeeks
-<p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
-    <img src="./assets/gfg_card.png" width="600" />
-  </a>
-</p>
 
 <p align="center">
-  🧠 Data Structures & Algorithms | 💻 Competitive Programming | 🏆 Interview Prep
+  <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" alt="GeeksforGeeks Logo"/>
+  </a>
 </p>
 
 
