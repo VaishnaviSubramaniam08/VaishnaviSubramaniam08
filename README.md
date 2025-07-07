@@ -78,11 +78,11 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 
 ## 📗 Connect with Me on GeeksforGeeks
 
-<p align="center">
+
   <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" alt="GeeksforGeeks Logo"/>
   </a>
-</p>
+
 
 
 
