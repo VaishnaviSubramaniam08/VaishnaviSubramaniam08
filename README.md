@@ -77,10 +77,15 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 </p>
 
 ## 📗 Connect with Me on GeeksforGeeks
-<p>
+<p >
   <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/>
-    &nbsp;Visit my GeeksforGeeks profile
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="60" alt="GeeksforGeeks Logo"/>
+  </a>
+</p>
+
+<p >
+  <a href="https://auth.geeksforgeeks.org/user/vaishnaviis08/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Profile-1f8f1f?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
 </p>
 
