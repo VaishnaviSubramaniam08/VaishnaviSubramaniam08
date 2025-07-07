@@ -78,8 +78,11 @@ return "impactful_solution"
 
 I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramaniam/).  
 
+## 📈 LeetCode Stats
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=LeetCode&logoColor=yellow)](https://leetcode.com/vaishnavisubramaniam/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vaishnavisubramaniam?ext=contest" />
+</p>
 
 📧 Contact: vaishnavisubramaniam247@gmail.com
 
