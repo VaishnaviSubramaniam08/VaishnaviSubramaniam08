@@ -10,15 +10,7 @@
 
 🚀 Building Tomorrow's Tech Today
 
-🎯 Current Tech Stack
 
-Languages: Python • Java • C++ • JavaScript • SQL
-
-Web: React • Node.js • Express.js • HTML/CSS
-
-Databases: MySQL • MongoDB • PostgreSQL
-
-Tools: Git • GitHub • VS Code
 
 ## 🛠 Tech Stack
 
@@ -80,8 +72,16 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 
 ## 📈 LeetCode Stats
 
-<p align="center">
+<p>
   <img src="https://leetcard.jacoblin.cool/vaishnavisubramaniam?ext=contest" />
+</p>
+
+## 📗 Connect with Me on GeeksforGeeks
+<p>
+  <a href="https://auth.geeksforgeeks.org/user/vaishnavis08/profile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30"/>
+    &nbsp;Visit my GeeksforGeeks profile
+  </a>
 </p>
 
 📧 Contact: vaishnavisubramaniam247@gmail.com
