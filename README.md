@@ -86,6 +86,8 @@ I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramani
 
 <br><br>
 
+📬 Let's Connect!<br>
+
 📧 Contact: vaishnavisubramaniam247@gmail.com
 
 📍 Location: Tiruppur, Tamil Nadu
