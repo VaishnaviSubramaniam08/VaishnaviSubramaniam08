@@ -70,7 +70,7 @@ return "impactful_solution"
 
 I regularly solve problems on [LeetCode](https://leetcode.com/vaishnavisubramaniam/).  
 
-## 📈 LeetCode Stats
+## 📈 LeetCode States
 
 <p>
   <img src="https://leetcard.jacoblin.cool/vaishnavisubramaniam?ext=contest" />
