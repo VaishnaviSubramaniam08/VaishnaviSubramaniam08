@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Vaishnavi%20Subramaniam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20"Hello%20World"%20to%20Real%20World&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Vaishnavi%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20"Hello%20World"%20to%20Real%20World&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Python+Enthusiast+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;Building+Tomorrow's+Tech+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Java+Enthusiast+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;Building+Tomorrow's+Tech+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=VaishnaviSubramaniam08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -176,7 +176,6 @@ mindmap
       Competitive Programming
     Learning Path
       Cloud Technologies
-      DevOps Basics
       System Design
     Projects
       Real World Applications
@@ -196,17 +195,6 @@ mindmap
 - 💬 Ask me about **Web Development, Python, Problem Solving**
 - 📫 Reach me at **vaishnavisubramaniam247@gmail.com**
 - ⚡ Fun fact: **I debug faster than I Google!**
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviSubramaniam08&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2)](https://github.com/VaishnaviSubramaniam08/your-repo-name)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VaishnaviSubramaniam08&repo=your-repo-name-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2)](https://github.com/VaishnaviSubramaniam08/your-repo-name-2)
-
-</div>
 
 ---
 
@@ -258,16 +246,6 @@ CSS          1 hr 20 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -286,14 +264,4 @@ CSS          1 hr 20 mins    █░░░░░░░░░░░░░░░░
 
 </div>
 
----
 
-<div align="center">
-
-### 💡 "Building impactful solutions, one commit at a time"
-
-### Show some ❤️ by starring some of the repositories!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer)
-
-</div>
