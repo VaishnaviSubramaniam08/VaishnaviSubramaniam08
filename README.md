@@ -4,7 +4,7 @@
 
 ### 🌟 From "Hello World" to Real World
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full-Stack+Developer;Python+Enthusiast;Problem+Solver;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full-Stack+Developer;Java+Enthusiast;Problem+Solver;Building+Tomorrow's+Tech)](https://git.io/typing-svg)
 
 </div>
 
