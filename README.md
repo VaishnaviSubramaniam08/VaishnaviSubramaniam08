@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Vaishnavi%20S&fontSize=90&animation=fadeIn&fontAlignY=38&desc=From%20"Hello%20World"%20to%20Real%20World&descAlignY=51&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Java+Enthusiast+%F0%9F%90%8D;Problem+Solver+%F0%9F%A7%A9;Building+Tomorrow's+Tech+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Computer+Science+Engineer+%F0%9F%8E%93;Full-Stack+Developer+%F0%9F%92%BB;Java+Enthusiast;Problem+Solver+%F0%9F%A7%A9;Building+Tomorrow's+Tech+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=VaishnaviSubramaniam08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
