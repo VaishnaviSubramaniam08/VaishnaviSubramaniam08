@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- WAVING HEADER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=250&section=header&text=Vaishnavi%20S&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;Java+%7C+MERN+Stack;Problem+Solver+💡;Always+Learning+🔥" />
 
-<br>
+<!-- ROTATING GIF -->
 
-<!-- ROTATING STYLE GIF -->
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
 
 </div>
+
+---
 
 ## 👩‍💻 About Me
 
