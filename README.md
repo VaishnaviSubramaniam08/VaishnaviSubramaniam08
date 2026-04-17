@@ -30,13 +30,18 @@ const vaishnavi = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&perline=6" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,firebase" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql&perline=6" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
 
+<img src="https://skillicons.dev/icons?i=firebase,docker,git,github,vscode,postman&perline=6" />
+<br><br>
 
+<img src="https://skillicons.dev/icons?i=figma,redux,tailwind,bootstrap,linux,aws&perline=6" />
+
+<br><br>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 </div>
