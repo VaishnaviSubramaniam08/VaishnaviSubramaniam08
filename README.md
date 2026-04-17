@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- WAVING HEADER -->
+<!-- HEADER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:764BA2&height=250&section=header&text=Vaishnavi%20S&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 
@@ -8,9 +8,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+🚀;Java+%7C+MERN+Stack;Problem+Solver+💡;Always+Learning+🔥" />
 
-<!-- ROTATING GIF -->
+<br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+<!-- WAVE GIF -->
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 
 </div>
 
@@ -18,38 +20,37 @@
 
 ## 👩‍💻 About Me
 
-```javascript id="rot123"
+```javascript
 const vaishnavi = {
+  name: "Vaishnavi S",
   role: "Full Stack Developer",
+  location: "Tamil Nadu, India",
   learning: ["React", "System Design", "DSA"],
-  funFact: "I debug faster than I Google 😎"
+  motto: "Code. Debug. Repeat."
 };
 ```
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+## ⚡ Tech Stack (Animated)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,mongodb,mysql,git,github&perline=5" />
+<img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
 
 <br><br>
 
-<!-- ROTATING BADGE STYLE -->
-
-<img src="https://img.shields.io/badge/Code-Love-ff69b4?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Build-Projects-blueviolet?style=for-the-badge">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 </div>
 
 ---
 
-## 📊 Live GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=VaishnaviSubramaniam08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=VaishnaviSubramaniam08&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviSubramaniam08&theme=tokyonight&hide_border=true" />
 
@@ -57,7 +58,7 @@ const vaishnavi = {
 
 ---
 
-## 🔥 Contribution Animation
+## 🔥 Contribution Graph
 
 <div align="center">
 
@@ -67,7 +68,7 @@ const vaishnavi = {
 
 ---
 
-## 🐍 Snake Animation (IMPORTANT)
+## 🐍 Snake Animation
 
 <div align="center">
 
@@ -81,15 +82,15 @@ const vaishnavi = {
 
 <div align="center">
 
-✨ MERN Stack
-✨ Data Structures & Algorithms
-✨ Real-world Projects
+🚀 MERN Stack
+🧠 Data Structures & Algorithms
+💻 Real-world Projects
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -101,7 +102,7 @@ const vaishnavi = {
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="#">
+<a href="https://linkedin.com/in/yourprofile">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -111,6 +112,6 @@ const vaishnavi = {
 
 <div align="center">
 
-💫 *Code. Create. Contribute.* 💫
+💫 *Keep Building. Keep Growing.* 💫
 
 </div>
