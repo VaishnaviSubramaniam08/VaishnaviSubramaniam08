@@ -48,12 +48,15 @@ const vaishnavi = {
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviSubramaniam08&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 ##🔥 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviSubramaniam08&theme=tokyo-night&hide_border=true" /> </div>
-🧠 LeetCode Stats
-<div align="center"> <img src="https://leetcard.jacoblin.cool/vaishnavisubramaniam?theme=dark&font=Fira%20Code&ext=contest" />
+## 🧠 LeetCode Stats
 
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/vaishnavisubramaniam?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
 <br><br>
 
-<img src="https://leetcode-stats.vercel.app/api?username=vaishnavisubramaniam&theme=dark" /> </div>
 ##🎯 Current Focus
 <div align="center">
 
