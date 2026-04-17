@@ -67,7 +67,10 @@ const vaishnavi = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/snake.svg">
+</picture>
 
 </div>
 
