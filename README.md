@@ -27,11 +27,15 @@ const vaishnavi = {
 
 ## ⚡ Tech Stack
 
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
-
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb" />
 <br><br>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,firebase" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
@@ -56,25 +60,15 @@ const vaishnavi = {
 <br><br>
 
 ## 🎯 Current Focus
-<div align="center">
-
-🚀 MERN Stack
-🧠 Data Structures & Algorithms
-💻 Real-world Projects
-
-</div>
-## 🐍 Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/VaishnaviSubramaniam08/VaishnaviSubramaniam08/output/snake.svg">
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=🚀+MERN+Stack;🧠+Data+Structures+%26+Algorithms;💻+Real-world+Projects" />
 
 </div>
 
-##🌐 Connect With Me
+
+## 🌐 Connect With Me
 <div align="center"> <a href="mailto:vaishnavisubramaniam247@gmail.com"> <img src="https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/vaishnavisubramaniam/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/VaishnaviSubramaniam08"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> </div>
 <div align="center">
 
