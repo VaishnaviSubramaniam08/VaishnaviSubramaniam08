@@ -27,21 +27,49 @@ const vaishnavi = {
 
 ## ⚡ Tech Stack
 
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css&perline=6" />
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql&perline=6" />
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=firebase,docker,git,github,vscode,postman&perline=6" />
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=figma,redux,tailwind,bootstrap,linux,aws&perline=6" />
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=js" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
 
 <br><br>
+
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=react" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+
+<br><br>
+
+<!-- Row 3 -->
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="50"/>
+
+<br><br>
+
+<!-- Row 4 -->
+<img src="https://skillicons.dev/icons?i=figma" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redux" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" width="50"/>
+
+<br><br>
+
+<!-- Animation GIF -->
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 </div>
@@ -76,7 +104,7 @@ const vaishnavi = {
 ## 🌐 Connect With Me
 <div align="center"> <a href="mailto:vaishnavisubramaniam247@gmail.com"> <img src="https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/vaishnavisubramaniam/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/VaishnaviSubramaniam08"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> </div>
 <div align="center">
-
+<br><br>
 💫 Keep Building. Keep Growing. 💫
 
-</div> ```
+</div> 
