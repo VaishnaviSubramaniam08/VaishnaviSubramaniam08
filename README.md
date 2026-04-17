@@ -15,20 +15,19 @@
 </div>
 
 ---
-
 ## 👩‍💻 About Me
 
-```javascript
-const vaishnavi = {
-  name: "Vaishnavi S",
-  role: "Full Stack Developer",
-  location: "Tamil Nadu, India",
-  learning: ["React", "System Design", "DSA"],
-  motto: "Code. Debug. Repeat."
-};
-```
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=667EEA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vaishnavi+👋;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
+
+</div>
+
+- 🎓 CSE Student from Tamil Nadu  
+- 💻 Building Full Stack Applications  
+- 🚀 Exploring MERN Stack & DSA  
+- 🎯 Goal: Become a top software engineer  
+
 
 ## ⚡ Tech Stack (Animated)
 
