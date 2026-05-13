@@ -66,6 +66,6 @@ const vaishnavi = {
 <div align="center">
 <br><br>
   
-💫 Keep Building. Keep Growing. 💫
+💫 Keep Dreaming. Keep Building. Keep Growing.💫
 
 </div> 
